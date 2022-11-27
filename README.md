@@ -1,2 +1,2 @@
-# cardgame
-An original card game
+# Surf's UP
+An original card game created using OOP in Java
